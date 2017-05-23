@@ -8,7 +8,7 @@ html, body {
 * {
   margin: 5px auto;
   padding-bottom: 5px;
-  width: 400px;
+  width: 600px;
 }
 
 .container {
@@ -16,7 +16,6 @@ html, body {
   display: block;
   padding-top: 2.5%;
   margin-bottom: 2.5%;
-  width: 400px;
 }
 
 .title {
