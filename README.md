@@ -2,4 +2,4 @@
 
 ## Personal website for an orange cat in Wisconsin
 
-Main purpose is for his owner, Lily, to explore git and the command line interface, and to practice making a website :0
+Main purpose is for his owner, Lily, to attempt at making a website, even if it's for her silly cat.
