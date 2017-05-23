@@ -1,0 +1,45 @@
+html, body {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  background: #FAFBFC;
+  height: 100%;
+}
+
+* {
+  margin: 5px;
+  padding-bottom: 5px;
+}
+
+.container {
+  position: relative;
+  padding-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+.title {
+  position: relative;
+  display: block;
+  background: #FCFDFE;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  color: #4C4C4C;
+}
+
+.content {
+  color: #666666;
+}
+
+.img {
+  position: relative;
+  display: inline-block;
+  height: auto;
+  width: 40%;
+  margin: auto;
+}
+
+#images {
+  text-align: center;
+}
