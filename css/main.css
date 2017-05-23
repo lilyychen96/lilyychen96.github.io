@@ -6,14 +6,17 @@ html, body {
 }
 
 * {
-  margin: 5px;
+  margin: 5px auto;
   padding-bottom: 5px;
+  width: 400px;
 }
 
 .container {
   position: relative;
+  display: block;
   padding-top: 2.5%;
   margin-bottom: 2.5%;
+  width: 400px;
 }
 
 .title {
@@ -30,6 +33,10 @@ html, body {
 
 .content {
   color: #666666;
+}
+
+.headimg {
+  width: 75%;
 }
 
 .img {
