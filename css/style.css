@@ -1,6 +1,6 @@
 body {
   font-family: 'Varela Round', sans-serif;
-  background: #FAFBFC;
+  background: #fafcfa;
 }
 
 * {
@@ -12,4 +12,38 @@ body {
   border-radius: 6px;
   max-width: 75%;
   margin: 0 auto;
+}
+
+
+.nav-pills a {
+  color: #4a9c8b;
+}
+
+.green-pill .active a, .green-pill .action a:hover, .green-pill .active a:focus {
+  color: #fff;
+  background-color: #76beaf!important;
+}
+
+.panel-custom-green {
+  border-color: #4a9c8b;
+}
+
+.panel-custom-green a {
+  color: #4a9c8b;
+}
+
+.panel-custom-green > .panel-heading {
+  color: #fff;
+  background-color: #4a9c8b;
+  border-color: #4a9c8b;
+}
+
+.panel-custom-lt-green {
+  border-color: #76beaf;
+}
+
+.panel-custom-lt-green > .panel-heading {
+  color: #fff;
+  background-color: #76beaf;
+  border-color: #76beaf;
 }
